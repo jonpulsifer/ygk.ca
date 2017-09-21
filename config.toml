@@ -9,7 +9,7 @@ theme = "dimension"
 
 [params]
   title = "ygk.ca"
-  description = 'This website is<br />for sale'
+  description = 'This website is<br />for sale!'
   logo = "fa-money"
   copyright = "2017 ygk.ca"
 
