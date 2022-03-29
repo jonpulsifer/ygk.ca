@@ -1,4 +1,4 @@
-+++
-draft = false
-weight = 0
-+++
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+---

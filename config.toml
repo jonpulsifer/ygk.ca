@@ -1,34 +1,4 @@
-baseURL = "ygk.ca"
-defaultContentLanguage = "en"
+baseURL = "https://ygk.ca"
 languageCode = "en-us"
-enableRobotsTXT = true
-disableKinds=["RSS"]
-
-title = "ygk.ca"
+title = "ygk.ca :: kingston, ontario"
 theme = "dimension"
-
-[params]
-  title = "ygk.ca"
-  description = 'This website is<br />for sale!'
-  logo = "fa-money"
-  copyright = "2017 ygk.ca"
-
-[[params.social]]
-  medium = "twitter"
-  icon = "fa-twitter"
-  link = "https://twitter.com/JonPulsifer"
-
-[[params.social]]
-  medium = "facebook"
-  icon = "fa-facebook"
-  link = "https://fb.me/jawn.ca"
-
-[[params.social]]
-  medium = "instagram"
-  icon = "fa-instagram"
-  link = "https://instagr.am/jawn.ca"
-
-[[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "https://github.com/JonPulsifer"
